@@ -1,7 +1,3 @@
-/**
- * Interface Segregation Principle states that no class should be forced
- * to implement methods or interfaces it does not use.
- */
 interface Swimmable {
   swim(): string;
 }

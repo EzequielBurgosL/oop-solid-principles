@@ -1,8 +1,3 @@
-/**
- * Single Responsibility Principle states that a class should have only one
- * reason to change. In other words, a class should have only one job.
- */
-
 // Module with single responsibility (follows SRP)
 class ReportGenerator {
   private title: string;

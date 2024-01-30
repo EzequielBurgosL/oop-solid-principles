@@ -1,8 +1,3 @@
-/**
- * Open-Closed Principle states that software entities should be open for
- * extension, but closed for modification. In other words, you should be
- * able to add new functionality without changing existing code.
- */
 abstract class Shape {
   abstract area(): number;
 }

@@ -1,7 +1,3 @@
-/**
- * Liskov Substitution Principle states that objects of a superclass shall be replaceable
- * with objects of its subclasses without breaking the application.
- */
 abstract class Shape {
   abstract area(): number;
 }
